@@ -91,7 +91,10 @@ int main()
 		case 'E':
 			return 0;
 			break;
+		default:
+			printf("Krivi unos\r\n");
 		}
+		
 	}
 
 	return 0;
